@@ -1,0 +1,29 @@
+{
+  "api": "http://54.69.165.206:3000",
+  "cred": {
+    "grant_type": "password",
+    "username": "iosadmin",
+    "password": "10$adm1n",
+    "client_id": "1",
+    "client_secret": "mobile",
+    "scope": "loyalty",
+    "token": ""
+  },
+  "member": {
+    "middleName": "Henry",
+    "lastName": "Berry",
+    "id": "",
+    "changedBy": "hberry0",
+    "firstName": "Justin",
+    "memberCreateDate": "10/07/2011",
+    "memberStatus": 4,
+    "password": "u1hMY8oa",
+    "passwordChangeRequired": 0,
+    "passwordExpireDate": "04/13/2018",
+    "email": "test123@test123.com",
+    "phone": "6939439852",
+    "zipCode": "64147",
+    "username": "hberry0",
+    "alternateId": "38597"
+  }
+}

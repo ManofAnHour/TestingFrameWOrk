@@ -4,7 +4,7 @@
   "description": "This is something that kaylen is playing around with",
   "main": "Sample.spec.js",
   "scripts": {
-    "test": "mocha ./*/*/*thing.spec.js"
+    "test": "mocha ./*.spec.js"
   },
   "repository": {
     "type": "git",
